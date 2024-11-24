@@ -13,8 +13,7 @@ The dataset includes information on marathon events, such as:
 - **Event date**: The date when the event took place.
 - **Event distance/length**: The length of the race (e.g., 42.195 km).
 - **Athlete performance**: Data on race times, rankings, and performance metrics for athletes.
-- **Location**: The country and city where the event occurred.
-- etc.
+- **Location**: The country and city where the event occurred etc.
 
 ## Analysis
 
